@@ -39,7 +39,6 @@ mistune @ file:///C:/ci/mistune_1607359457024/work
 nbclient @ file:///C:/ci/nbclient_1650290387259/work
 nbconvert==6.5.0
 nbformat @ file:///C:/ci/nbformat_1649845125000/work
-notebook @ file:///C:/ci/notebook_1651666819623/work
 numpy==1.23.0
 packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
 pandas==1.4.3
